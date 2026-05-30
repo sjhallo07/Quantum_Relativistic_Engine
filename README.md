@@ -31,6 +31,7 @@ El núcleo del AQCS opera mediante un lazo de control cerrado que garantiza la e
 ## 🛠️ Estructura de Notebooks
 * `Einstein_Semantic_Search_RAG (2.0).ipynb`: Motor de recuperación de parámetros.
 * `Schrödinger_superposición.ipynb`: Análisis de trayectorias cuánticas/caóticas.
+*`deeptest.ipynb`: Pruebas profundas de estimación del EKF y análisis de caos.
 * `bridge_integrated.ipynb`: Orquestador principal del lazo de control.
 
 ---
