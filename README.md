@@ -14,6 +14,7 @@ El núcleo del AQCS opera mediante un lazo de control cerrado que garantiza la e
 
 1. **Motor Semántico (Einstein):** Recupera leyes físicas y parámetros desde un corpus documental.
 2. **Motor Caótico (Schrödinger):** Proyecta la superposición de trayectorias.
+ **Simulación Lorenz/EKF** | ✅ Operativo | Motor de integración numérica (Schrödinger/DeepTest). |
 3. **Orquestador (Bridge):** Realiza el colapso de estados y estabiliza mediante el Filtro de Kalman.
 
 ---
